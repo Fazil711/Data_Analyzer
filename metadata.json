@@ -1,0 +1,5 @@
+{
+  "name": "CSV Data Analysis with Gemini",
+  "description": "An application to upload a CSV file, view statistical insights, and ask questions about the data using the Gemini API. It provides quick analysis like mean, missing values, and a correlation heatmap.",
+  "requestFramePermissions": []
+}
